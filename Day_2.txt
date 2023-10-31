@@ -1,0 +1,41 @@
+Software Development LifeCycle ( SDLC ) 
+
+# End goal is to generate HIGH QUALITY product.
+
+Process/ Culture/ Pillars/ Standard to 
+1. Design
+2. Develop
+3. Test
+
+Illustration:
+An E-Commerce Application for clothing brand ( example.com ) 
+
+Case : We have to add Kids Section in Men/ Women Section
+
+
+
+Steps in Building:
+    1. Planning ( Requirements - Gathered by Core Members ) 
+        Imp [ in-depth collective info ]
+    2. Defining ( Documents - Software Requirement Specification Document [ SRS ] )
+    3. Designing ( User Case Creation )
+        High Level Design - Scaling possible/ No of users
+        Low Level Design - Developer decide on tech-stack and implementation details
+    
+    ### DevOps role starts from here ( Ensures all 3 below steps are automated )
+    4. Building ( Developing )
+        Checks Jira ( stores code in GIT - centralized or distributed Version Control )
+    5. Testing ( Deploye on Server)
+        Quality Assurance Engineer ( QA )
+    6. Deployment ( go to step 1)
+        Deploy in PROD Server ( Customer's Server )
+
+
+Models:
+1. Agile
+2. WaterFall
+3. Iterative
+
+
+
+NOTE: DevOps suggest right tool for the implementation
