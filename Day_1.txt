@@ -1,0 +1,36 @@
+What is DevOps?
+
+1. Culture that improves delivery of software in an organization.
+2. Shorter release cycle ( in hours or in days), contradicting to traditional time consuming life cycles.
+
+DevOps includes CI/CD ( Continuous Integration/ Continuous Delivery)
+
+DevOps is a process of improving the application delivery by ensuring:
+    1. Improving Delivery
+    2. Automation
+    3. Quality
+    4. Continuous Monitoring
+    5. Continuous Testing
+
+Why DevOps?
+
+Earlier Times ( for an application to go live they require following people )
+1. SysAdmin ( creates app server using vmware, openstack, xen hypervisor )
+2. Build and Run Engineer ( Deploy the code )
+3. Server Admin 
+4. Tester
+
+Now with DevOps !!!
+Culture to adopt new tools to improve delivery of app
+
+How to introduce yourself in interview?
+I'm a devops engineer since 3-4 years.
+
+Current Experience
+Past Experience ( SysAdmin, BRE, Server Admin, Java, Python)
+Roles and Responsibility in current role!
+    1. Automation
+    2. Tools Technology
+    3. Quality
+    4. Monitoring
+    5. Testing
